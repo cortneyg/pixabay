@@ -9,7 +9,6 @@ class App extends Component {
       <MuiThemeProvider>
         <div>
           <Search />
-          <button>Search</button>
         </div>
       </MuiThemeProvider>
     );
