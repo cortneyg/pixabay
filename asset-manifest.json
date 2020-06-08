@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cortneyg/pixabay.git/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/cortneyg/pixabay.git/static/js/main.883d88dc.chunk.js",
+    "main.js.map": "/cortneyg/pixabay.git/static/js/main.883d88dc.chunk.js.map",
+    "runtime-main.js": "/cortneyg/pixabay.git/static/js/runtime-main.83779da4.js",
+    "runtime-main.js.map": "/cortneyg/pixabay.git/static/js/runtime-main.83779da4.js.map",
+    "static/js/2.0e7a420d.chunk.js": "/cortneyg/pixabay.git/static/js/2.0e7a420d.chunk.js",
+    "static/js/2.0e7a420d.chunk.js.map": "/cortneyg/pixabay.git/static/js/2.0e7a420d.chunk.js.map",
+    "index.html": "/cortneyg/pixabay.git/index.html",
+    "precache-manifest.f8b24993bda05df012f30e256400d1a9.js": "/cortneyg/pixabay.git/precache-manifest.f8b24993bda05df012f30e256400d1a9.js",
+    "service-worker.js": "/cortneyg/pixabay.git/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/cortneyg/pixabay.git/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.0e7a420d.chunk.js.LICENSE.txt": "/cortneyg/pixabay.git/static/js/2.0e7a420d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83779da4.js",
+    "static/js/2.0e7a420d.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.883d88dc.chunk.js"
+  ]
+}
